@@ -1,0 +1,107 @@
+
+l
+java:S5961«"PRefactor this method to reduce the number of assertions from 36 to less than 25.(ÖÃè™úÿÿÿÿ
+M
+java:S5838Ã"1Use assertThat(actual).hasSize(expected) instead.(ê‹·ïøÿÿÿÿ
+?
+java:S5838ğ"(Use assertThat(actual).isNull() instead.(æÄ î
+M
+java:S5838Š"1Use assertThat(actual).hasSize(expected) instead.(ê‹·ïøÿÿÿÿ
+I
+java:S5838½"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+K
+java:S5838¿"5Use assertThat(actual).isNotSameAs(expected) instead.(°«C
+I
+java:S5838Í"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+I
+java:S5838Ü"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+I
+java:S5838ë"2Use assertThat(actual).isSameAs(expected) instead.(µŒØ
+K
+java:S5838í"5Use assertThat(actual).isNotSameAs(expected) instead.(°«C
+N
+java:S5838ï"2Use assertThat(actual).isSameAs(expected) instead.(äÜ¢Ûøÿÿÿÿ
+I
+java:S5838ñ"2Use assertThat(actual).isSameAs(expected) instead.(µŒØ
+I
+java:S5838ş"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+K
+java:S5838€"5Use assertThat(actual).isNotSameAs(expected) instead.(°«C
+N
+java:S5838‚"2Use assertThat(actual).isSameAs(expected) instead.(äÜ¢Ûøÿÿÿÿ
+I
+java:S5838„"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+G
+java:S5838Ÿ"1Use assertThat(actual).hasSize(expected) instead.(é·«M
+Q
+java:S5838 "5Use assertThat(actual).containsKey(expected) instead.(•¿±’üÿÿÿÿ
+K
+java:S5838¡"5Use assertThat(actual).containsKey(expected) instead.(ï®è]
+X
+java:S5838¨"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(±Îºç
+I
+java:S5838»"2Use assertThat(actual).isSameAs(expected) instead.(·•ú
+I
+java:S5838È"2Use assertThat(actual).isSameAs(expected) instead.(ú§†£
+K
+java:S5838Ê"5Use assertThat(actual).isNotSameAs(expected) instead.(ƒùŠ)
+I
+java:S5838ì"2Use assertThat(actual).isSameAs(expected) instead.(µŒØ
+I
+java:S5838î"2Use assertThat(actual).isSameAs(expected) instead.(Ûİ‘
+N
+java:S5838Š"2Use assertThat(actual).isSameAs(expected) instead.(ÉÃ“¶üÿÿÿÿ
+]
+java:S5838‚"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(’¨Êöıÿÿÿÿ
+1
+java:S5838î"Use isZero() instead.(½ßÆşÿÿÿÿ
+,
+java:S5838÷"Use isZero() instead.(ğ”Š¤
++
+java:S5838€"Use isZero() instead.(’˜Ğf
++
+java:S5838ˆ"Use isZero() instead.(’˜Ğf
+,
+java:S5838£"Use isZero() instead.(ÔŒÓï
+,
+java:S5838ï"Use isZero() instead.(¦ıŸ
+1
+java:S5838õ"Use isZero() instead.(¯˜áüÿÿÿÿ
+]
+java:S5838ı"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(©§ä¼ıÿÿÿÿ
+R
+java:S5838€	";Use assertThat(actual).hasToString(expectedString) instead.(Á¨ 
+R
+java:S5838ƒ	";Use assertThat(actual).hasToString(expectedString) instead.(Á¨ 
+R
+java:S5838†	";Use assertThat(actual).hasToString(expectedString) instead.(Á¨ 
+R
+java:S5838‰	";Use assertThat(actual).hasToString(expectedString) instead.(Á¨ 
+X
+java:S5838ö
+"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(òÊ¦¥
+X
+java:S5838û
+"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(÷ÒÀ¹
+]
+java:S5838²"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(ÊŠ¦‡üÿÿÿÿ
+]
+java:S5838º"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(ÊŠ¦‡üÿÿÿÿ
+X
+java:S5838ì"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(¡¾‡Â
+M
+java:S5838í"1Use assertThat(actual).hasSize(expected) instead.(ñÕÂ”şÿÿÿÿ
+X
+java:S5838ö"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(¡¾‡Â
+M
+java:S5838÷"1Use assertThat(actual).hasSize(expected) instead.(ñÕÂ”şÿÿÿÿ
+]
+java:S5838€"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(ƒ˜ÁŠûÿÿÿÿ
+,
+java:S5838"Use isZero() instead.(€Ï¥ì
+]
+java:S5838‹"AUse assertThat(actual).isInstanceOf(ExpectedClass.class) instead.(ƒ˜ÁŠûÿÿÿÿ
+,
+java:S5838Œ"Use isZero() instead.(€Ï¥ì
+G
+java:S5838Ã"1Use assertThat(actual).hasSize(expected) instead.(ç÷

@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/spring-aop/build/
+/spring-aop/build/classes/java/main/
+/spring-beans/build/
+/spring-beans/build/classes/java/test/
+/spring-context/build/
+/spring-context/build/classes/java/main/
+/spring-core/build/
+/spring-core/build/classes/java/main/
+/spring-core/build/classes/java/test/
+/spring-expression/build/
+/spring-expression/build/classes/java/main/
+/spring-instrument/build/
+/spring-instrument/build/classes/java/main/
+/spring-jcl/build/
+/spring-jcl/build/classes/java/main/
+/spring-song/build/
+/spring-song/build/classes/java/test/

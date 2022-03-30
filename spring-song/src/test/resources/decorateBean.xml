@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	<bean id="getBeanTest" class="sou.MyClass">
+		<mybean:user username="aa"/>
+	</bean>
+
+<!--	通过name指定别名-->
+	<bean id="user" name="user1,user2" class="sou.User"/>
+	<alias name="user" alias="user3,user4"/>
+
+</beans>

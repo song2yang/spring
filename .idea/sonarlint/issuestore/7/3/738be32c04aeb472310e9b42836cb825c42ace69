@@ -1,0 +1,10 @@
+
+U
+java:S1118<":Add a private constructor to hide the implicit public one.(­ ãÍûÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥ºäüÿÿÿÿ
+L
+java:S1133ß"5Do not forget to remove this deprecated code someday.(”æ«”
+Q
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(Û¦æ½ûÿÿÿÿ
+s	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ
