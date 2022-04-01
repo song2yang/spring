@@ -1,0 +1,21 @@
+plugins {
+    id 'war'
+    id 'java'
+}
+
+group 'org.springframework'
+version '5.0.21.BUILD-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.11'
+    testImplementation 'junit:junit:4.12'
+    implementation project(":spring-webmvc")
+    implementation project(":spring-context")
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+    implementation 'jstl:jstl:1.2'
+}
